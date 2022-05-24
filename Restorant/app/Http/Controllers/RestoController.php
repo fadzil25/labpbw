@@ -30,7 +30,7 @@ class RestoController extends Controller
         //memasukkan data kedalam databse
         DB::table('restorant')->insert([
             'nama_pemesan' => $request->nama_pemesan,
-            'no.hp' => $request->no_hp,
+            'no_hp' => $request->no_hp,
             'jumlah_pesanan' => $request->jumlah_pesanan,
             'harga_total' => $request->harga_total,
             'status' => $request->status

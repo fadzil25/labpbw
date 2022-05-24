@@ -18,10 +18,10 @@
         <div class="table-responsive">
             <table id="mytable" class="table table-bordred table-striped">
                 <thead>
-                    <th>Nama pemesan</th>
-                    <th>No Hp</th>
-                    <th>Jumlah Pesanan</th>
-                    <th>Harga Total</th>
+                    <th>nama pemesan</th>
+                    <th>no Hp</th>
+                    <th>jumlah Pesanan</th>
+                    <th>harga Total</th>
                     <th>status</th>
                 </thead>
             <tbody>
